@@ -4,6 +4,16 @@ A list of opininated links to resources useful to blockchain and bitcoin develop
 
 ## Bitcoin
 
+### Non-technical Introductions
+
+#### Videos
+  * [Blockchain University — Bitcoin & the Blockchain: An Introduction](https://www.youtube.com/watch?v=ZUoXUW9zVMs) by [@ChristopherA](https://twitter.com/ChristopherA)
+
+### Technical Introductions
+
+#### Videos
+  * 
+
 ### Testnet Faucets
 
 You'll need bitcoin testnet coins while developing apps with bitcoin. List in rough order of reliability and number of coins offered.
