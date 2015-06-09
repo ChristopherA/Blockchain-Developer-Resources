@@ -29,6 +29,7 @@ Sidechains are new blockchains, but are backed by Bitcoin rather than being an a
 
 ### Concepts
   * The Initial Two-Way Pegging [proposal](http://sourceforge.net/p/bitcoin/mailman/message/32108143/) by Adam Back
+  * Blockstream Whitepaper [Enabling Blockchain Innovations with Pegged Sidechains](https://www.blockstream.com/sidechains.pdf)
 
 ### Projects
   * [Sidechain Elements Project] (https://github.com/ElementsProject/elementsproject.github.io/) - Open source github project investigating and experiment with various bitcoin sidechain concepts
