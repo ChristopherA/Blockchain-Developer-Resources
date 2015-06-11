@@ -15,6 +15,17 @@ A list of opininated links to resources useful to blockchain and bitcoin develop
 
 #### Videos
   * 
+  
+#### Books
+  * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
+
+### Local-client Javascript Tools & Playgrounds
+
+These tools can be cloned from github to allow you to use your browser to play around with various bitcoin capabilities:
+
+  * [Bip32 Generator](https://github.com/bip32/bip32.github.io) `git clone https://github.com/bip32/bip32.github.io.git ; cd bip32.github.io ; open index.html` lets you create Bip32 Deterministic Heirarchical Keys (prefix xpub* and xprv*) based on a simple brainwallet (aka arbitrary mnemonic) passphrase.
+  * [Bip39 Mnemonic Code Converter](https://github.com/dcpos/bip39) `npm install bip39 ; npm run compile` lets you create Bip39 mnemonics (typically 12 words) used for deterministic keys, typically for Bip32.
+
 
 ### Testnet Faucets
 
@@ -68,6 +79,16 @@ Some general Javascript online books in eBook (in rough order of preference)
 http://eloquentjavascript.net
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 http://bonsaiden.github.io/JavaScript-Garden/
+
+---
+## Bitcoin Standards
+
+* BIP32 - Bitcoin Deterministic Heirarchical Keys
+  * Good article on [Deterministic Wallets](http://blog.richardkiss.com/?p=313)
+  * Discussion of [BIP32 Advantages and Flaws](https://bitcoinmagazine.com/8396/deterministic-wallets-advantages-flaw/)
+  * The [BIP0032 Standard](https://en.bitcoin.it/wiki/BIP_0032)
+  * [Bip32 Generator](https://github.com/bip32/bip32.github.io) `git clone https://github.com/bip32/bip32.github.io.git ; cd bip32.github.io ; open index.html` lets you create Bip32 Deterministic Heirarchical Keys (prefix xpub* and xprv*) based on a simple brainwallet (aka arbitrary mnemonic) passphrase.
+
 
 ---
 
