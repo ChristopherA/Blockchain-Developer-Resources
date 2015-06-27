@@ -84,6 +84,7 @@ http://bonsaiden.github.io/JavaScript-Garden/
 ### Bitcore.js
   * [Bitcoin 101 - Getting Started With Bitcore - A Full JavaScript Implementation of Bitcoin](https://www.youtube.com/watch?v=TmkN8yYyOv8)
     * https://github.com/wobine/blackboard101/blob/master/BitcoreDayOne.html - code for the above
+  * [Bitcoin Quick Tools](https://github.com/chulini/bitcoin-quick-tools) - Simple browser-based app (loaded locally) that is Bitcore.js. Has key and address generator and simple transaction tool. Useful working example of browserfy bitcore.js code.
 
 ---
 ### Bitcoin Standards
