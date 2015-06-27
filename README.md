@@ -31,7 +31,8 @@ These tools can be cloned from github to allow you to use your browser to play a
 
 You'll need bitcoin testnet coins while developing apps with bitcoin. List in rough order of reliability and number of coins offered.
 
-  * [Sidechains Elements Project Testnet Faucet](https://testnet-faucet.elementsproject.org) - 10 per day per ip
+  * [Sidechains Elements Project Testnet Faucet](https://testnet-faucet.elementsproject.org) - 10 BTC per day per ip
+  * [TP Faucet](http://tpfaucet.appspot.com) - 1.9 BTC per request
 
 ## Javascript & Bitcoin
 
@@ -81,7 +82,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 http://bonsaiden.github.io/JavaScript-Garden/
 
 ---
-## Bitcoin Standards
+### Bitcoin Standards
 
 * BIP32 - Bitcoin Deterministic Heirarchical Keys
   * Good article on [Deterministic Wallets](http://blog.richardkiss.com/?p=313)
@@ -89,6 +90,11 @@ http://bonsaiden.github.io/JavaScript-Garden/
   * The [BIP0032 Standard](https://en.bitcoin.it/wiki/BIP_0032)
   * [Bip32 Generator](https://github.com/bip32/bip32.github.io) `git clone https://github.com/bip32/bip32.github.io.git ; cd bip32.github.io ; open index.html` lets you create Bip32 Deterministic Heirarchical Keys (prefix xpub* and xprv*) based on a simple brainwallet (aka arbitrary mnemonic) passphrase.
 
+### 
+
+* Blockchain Explorers
+  * [Blockr.io](http://btc.blockr.io)
+  * 
 ---
 
 ## Altcoins
