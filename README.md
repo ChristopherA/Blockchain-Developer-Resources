@@ -89,6 +89,12 @@ http://bonsaiden.github.io/JavaScript-Garden/
   * The [BIP0032 Standard](https://en.bitcoin.it/wiki/BIP_0032)
   * [Bip32 Generator](https://github.com/bip32/bip32.github.io) `git clone https://github.com/bip32/bip32.github.io.git ; cd bip32.github.io ; open index.html` lets you create Bip32 Deterministic Heirarchical Keys (prefix xpub* and xprv*) based on a simple brainwallet (aka arbitrary mnemonic) passphrase.
 
+---
+
+## Altcoins
+
+  * [CoinGecko](https://www.coingecko.com/en) has charts for a number of altcoins, but more importantly, attempts to measure developer and user community activity.
+
 
 ---
 
