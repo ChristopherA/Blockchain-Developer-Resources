@@ -9,12 +9,14 @@ A list of opininated links to resources useful to blockchain and bitcoin develop
 ### Non-Technical Introductions
 
 #### Non-Technical Videos
+  * [Bitcoin explained and made simple](https://www.youtube.com/watch?v=s4g1XFU8Gto) (3m:24s) by [The Guardian](http://www.theguardian.com/)
   * [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c) (5m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
   * [Blockchain University — Bitcoin & the Blockchain: An Introduction](https://www.youtube.com/watch?v=ZUoXUW9zVMs) (26m:16s) by [@ChristopherA](https://twitter.com/ChristopherA) 
   * [Bitcoin 101 - What is Bitcoin?](https://www.youtube.com/watch?v=Bhe61JaNFLU) (22m:32s) by [James D'Angelo WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw)
 
 #### Non-Technical Articles
 
+##### (unsorted)
   * http://www.coindesk.com/information/what-is-bitcoin/
   * http://money.cnn.com/infographic/technology/what-is-bitcoin/
   * https://hbr.org/2016/05/the-impact-of-the-blockchain-goes-beyond-financial-services
@@ -22,7 +24,8 @@ A list of opininated links to resources useful to blockchain and bitcoin develop
 ### Technical Introductions
 
 #### Technical Videos
-  * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) 
+  * [How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs) (5m:25s)  by [Curious Inventor](http://Patreon.com/CuriousInventor)
+  * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (22m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
 
 #### Technical Books
   * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
