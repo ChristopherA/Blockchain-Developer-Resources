@@ -1,22 +1,30 @@
 # Blockchain-Developer-Resources
 
-A list of opininated links to resources useful to blockchain and bitcoin developers
+A list of opininated links to resources useful to blockchain and bitcoin developers.
 
 ---
 
 ## Bitcoin
 
-### Non-technical Introductions
+### Non-Technical Introductions
 
-#### Videos
-  * [Blockchain University — Bitcoin & the Blockchain: An Introduction](https://www.youtube.com/watch?v=ZUoXUW9zVMs) by [@ChristopherA](https://twitter.com/ChristopherA)
+#### Non-Technical Videos
+  * [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c) (5m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
+  * [Blockchain University — Bitcoin & the Blockchain: An Introduction](https://www.youtube.com/watch?v=ZUoXUW9zVMs) (26m:16s) by [@ChristopherA](https://twitter.com/ChristopherA) 
+  * [Bitcoin 101 - What is Bitcoin?](https://www.youtube.com/watch?v=Bhe61JaNFLU) (22m:32s) by [James D'Angelo WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw)
+
+#### Non-Technical Articles
+
+  * http://www.coindesk.com/information/what-is-bitcoin/
+  * http://money.cnn.com/infographic/technology/what-is-bitcoin/
+  * https://hbr.org/2016/05/the-impact-of-the-blockchain-goes-beyond-financial-services
 
 ### Technical Introductions
 
-#### Videos
-  * 
-  
-#### Books
+#### Technical Videos
+  * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) 
+
+#### Technical Books
   * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
 
 ### Local-client Javascript Tools & Playgrounds
@@ -25,7 +33,6 @@ These tools can be cloned from github to allow you to use your browser to play a
 
   * [Bip32 Generator](https://github.com/bip32/bip32.github.io) `git clone https://github.com/bip32/bip32.github.io.git ; cd bip32.github.io ; open index.html` lets you create Bip32 Deterministic Heirarchical Keys (prefix xpub* and xprv*) based on a simple brainwallet (aka arbitrary mnemonic) passphrase.
   * [Bip39 Mnemonic Code Converter](https://github.com/dcpos/bip39) `npm install bip39 ; npm run compile` lets you create Bip39 mnemonics (typically 12 words) used for deterministic keys, typically for Bip32.
-
 
 ### Testnet Faucets
 
