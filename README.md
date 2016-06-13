@@ -8,11 +8,17 @@ A list of opininated links to resources useful to blockchain and bitcoin develop
 
 ### Non-Technical Introductions
 
-#### Non-Technical Videos
+#### Non-Technical Videos (Very Intro)
   * [Bitcoin explained and made simple](https://www.youtube.com/watch?v=s4g1XFU8Gto) (3m:24s) by [The Guardian](http://www.theguardian.com/)
   * [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c) (5m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
+  
+#### Non-Technical Videos (More Detail)
   * [Blockchain University — Bitcoin & the Blockchain: An Introduction](https://www.youtube.com/watch?v=ZUoXUW9zVMs) (26m:16s) by [@ChristopherA](https://twitter.com/ChristopherA) 
   * [Bitcoin 101 - What is Bitcoin?](https://www.youtube.com/watch?v=Bhe61JaNFLU) (22m:32s) by [James D'Angelo WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw)
+ 
+#### Non-Technical Videos (Intermediate & Related Topics)
+  * [Blockchain University — Bitcoin Keys Addresses and Wallets](https://www.youtube.com/watch?v=Ic76iSnCb_0) (1h:06m:43s) by [@ChristopherA](https://twitter.com/ChristopherA)
+  * [Bitcoin Sidechains](https://www.youtube.com/watch?v=6sXNVIaNL2Y) (5m:54s) by [Diginomics](https://diginomics.com/)
 
 #### Non-Technical Articles
 
@@ -26,6 +32,8 @@ A list of opininated links to resources useful to blockchain and bitcoin develop
 #### Technical Videos
   * [How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs) (5m:25s)  by [Curious Inventor](http://Patreon.com/CuriousInventor)
   * [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE) (22m:24s) by [Curious Inventor](http://Patreon.com/CuriousInventor)
+  * [Mechanics of Bitcoin](https://www.youtube.com/watch?v=t3hJsFpPmXs) (1h:19m:49s) by [Princeton 
+Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/course/bitcointech)
 
 #### Technical Books
   * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
