@@ -42,15 +42,12 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1D_gi_7Sf9sOyAHG25cMpOO4xtLq3iJUtjRwcZXFLv1E/edit) by Kofler
 * [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) by Buterin
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) by Driscoll
-* [Bitcoin Scripts](http://www.bitcoinsecurity.org/2012/07/22/7/) by Koshy
 * [Bitcoins the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html) by Shirriff
 * [Bitcoin mining the hard way: the algorithms, protocols, and bytes](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html) by Shirriff
-* [Proving Your Bitcoin Reserves](https://iwilcox.me.uk/2014/proving-bitcoin-reserves) by Maxwell
 
 #### Tutorials
 * [The libbitcoin Tutorial](http://libbitcoin.dyne.org/doc/) by Taaki
 * [How to Parse the Bitcoin Blockchain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html) by Ratcliff
-* [How to extract every single bitcoin transaction from the blockchain and save it to an ASCII comma separated text file](http://codesuppository.blogspot.com/2014/03/how-to-extract-every-single-bitcoin.html) by Ratcliff
 * [Signing Offline Transactions](https://gist.github.com/jashmenn/9811205) by Maxwell
 * [2 of 2 escrow example](https://gist.github.com/jashmenn/9811198) by Maxwell
 * [2 of 3 multisig example](https://gist.github.com/jashmenn/9811185) by Andresen
@@ -64,7 +61,6 @@ Sidechains are new blockchains, but are backed by Bitcoin rather than being an a
   * [Ask Dr. Bitcoin: What are Side-Chains](http://siliconangle.com/blog/2014/04/21/bitcoin-sidechains/)
   * [Introduction To Sidechains and Blockchain 2.0](https://www.deepdotweb.com/2014/06/26/sidechains-blockchain-2-0/)
   * [Sidechains, Treechains, the TL;DR](http://blog.greenaddress.it/2014/06/13/sidechains-treechains-the-tldr/) by Sanders
-  * [Sidechains Explained](http://cryptobizmagazine.com/sidechains-explained/) by Payne
   * [Side Chains: The How, The Challenges and the Potential](http://bitcoinmagazine.com/12349/side-chains-challenges-potential/) by Buterin
   * [Sidechain Technical Feasibility Discussion](https://bitcointalk.org/index.php?topic=566704.0;all) (discussion)
   * [Alternative Chains / merged mining](https://en.bitcoin.it/wiki/Alternative_Chains) 
