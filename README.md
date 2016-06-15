@@ -39,6 +39,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
   * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook) by Andreas M. Antonopoulos LLC
 
 #### Technical Articles
+* [Elliptic Curve Digital Signature Algorithm and its Applications in Bitcoin (http://cs.ucsb.edu/~koc/ecc/project/2015Projects/Malvik+Witzoee.pdf) by Arnt Gunnar Malvik and Bendik Witzoee
 * [Programming Bitcoin Transaction Scripts](https://docs.google.com/document/d/1D_gi_7Sf9sOyAHG25cMpOO4xtLq3iJUtjRwcZXFLv1E/edit) by Kofler
 * [Developer’s Introduction to Bitcoin](http://bitcoinmagazine.com/9249/developers-introduction-bitcoin/) by Buterin
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) by Driscoll
@@ -48,6 +49,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Proving Your Bitcoin Reserves](https://iwilcox.me.uk/2014/proving-bitcoin-reserves) by Maxwell
 
 #### Tutorials
+* [Cryptographic Currencies Crash Course (C4)](http://www2016.net/proceedings/companion/p1021.pdf) by Aljosha Judmayer and Edgar Weipp
 * [The libbitcoin Tutorial](http://libbitcoin.dyne.org/doc/) by Taaki
 * [How to Parse the Bitcoin Blockchain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html) by Ratcliff
 * [How to extract every single bitcoin transaction from the blockchain and save it to an ASCII comma separated text file](http://codesuppository.blogspot.com/2014/03/how-to-extract-every-single-bitcoin.html) by Ratcliff
@@ -55,6 +57,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [2 of 2 escrow example](https://gist.github.com/jashmenn/9811198) by Maxwell
 * [2 of 3 multisig example](https://gist.github.com/jashmenn/9811185) by Andresen
 * [How to decrypt messages in the blockchain from btcmsg](https://gist.github.com/ripper234/1625828) by ripper234
+
 
 ## Sidechains
 
