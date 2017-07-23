@@ -47,7 +47,7 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [Bitcoin mining the hard way: the algorithms, protocols, and bytes](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html) by Shirriff
 
 #### Tutorials
-* [Cryptographic Currencies Crash Course (C4)](http://www2016.net/proceedings/companion/p1021.pdf) by Aljosha Judmayer and Edgar Weipp
+* [Condensed Cryptographic Currencies Crash Course (C5)](https://www.youtube.com/watch?v=i1ys4By4tgI) by Aljosha Judmayer
 * [The libbitcoin Tutorial](http://libbitcoin.dyne.org/doc/) by Taaki
 * [How to Parse the Bitcoin Blockchain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html) by Ratcliff
 * [Signing Offline Transactions](https://gist.github.com/jashmenn/9811205) by Maxwell
